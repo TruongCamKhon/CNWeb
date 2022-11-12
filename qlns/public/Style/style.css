@@ -1,0 +1,15 @@
+img{
+    object-fit: cover;
+    image-rendering: pixelated;
+    height: 375px;
+}
+
+.card{
+    width: 325px;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
